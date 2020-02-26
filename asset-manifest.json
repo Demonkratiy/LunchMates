@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/LunchMates/static/css/main.69eda509.chunk.css",
+    "main.js": "/LunchMates/static/js/main.eb170850.chunk.js",
+    "main.js.map": "/LunchMates/static/js/main.eb170850.chunk.js.map",
+    "runtime-main.js": "/LunchMates/static/js/runtime-main.38801f1f.js",
+    "runtime-main.js.map": "/LunchMates/static/js/runtime-main.38801f1f.js.map",
+    "static/js/2.5649a717.chunk.js": "/LunchMates/static/js/2.5649a717.chunk.js",
+    "static/js/2.5649a717.chunk.js.map": "/LunchMates/static/js/2.5649a717.chunk.js.map",
+    "index.html": "/LunchMates/index.html",
+    "precache-manifest.c0fd89ea23130b86df1939d99e02c09d.js": "/LunchMates/precache-manifest.c0fd89ea23130b86df1939d99e02c09d.js",
+    "service-worker.js": "/LunchMates/service-worker.js",
+    "static/css/main.69eda509.chunk.css.map": "/LunchMates/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.5649a717.chunk.js.LICENSE": "/LunchMates/static/js/2.5649a717.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38801f1f.js",
+    "static/js/2.5649a717.chunk.js",
+    "static/css/main.69eda509.chunk.css",
+    "static/js/main.eb170850.chunk.js"
+  ]
+}
